@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+#voltar{
+    display: flex;
+    justify-content: center;
+}
+.thumb {
+    width: 300px;
+    height: auto;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(32, 31, 31);
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
